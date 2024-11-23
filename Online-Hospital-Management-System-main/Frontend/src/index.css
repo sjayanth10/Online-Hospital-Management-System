@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.side-image {
+    @apply flex mt-10 ml-24 mr-0 w-max rounded-lg;
+  
+}
